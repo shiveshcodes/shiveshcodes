@@ -38,57 +38,43 @@ building: AI that turns months of clinical research into minutes
 
 ### What I'm building
 
-<a href="https://www.frekil.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-iitb&repo=RWEAgent&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&bg_color=1a1b27&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Frekil](https://www.frekil.com)** — Like an AI Biostatistician. We automate real-world evidence generation for pharma and biotech — from EHR/claims data to publication-ready retrospective studies and FDA/EMA-ready evidence packages.
+**[Frekil](https://www.frekil.com)** (YC X25)
 
-**[RWEAgent](https://github.com/nikhil-iitb/RWEAgent)** — Open-source LangGraph platform powering Frekil. Converts natural language research questions into complete clinical studies: cohort definition, SQL generation against OMOP/MIMIC-IV, statistical analysis (survival, PSM), and scientific manuscript generation.
+Like an AI Biostatistician. We automate real-world evidence generation for pharma and biotech — from EHR/claims data to publication-ready retrospective studies and FDA/EMA-ready evidence packages. Run RWE studies 100x faster with full regulatory auditability.
+
+</td>
+<td width="50%" valign="top">
+
+**[RWEAgent](https://github.com/nikhil-iitb/RWEAgent)** (Open Source)
+
+LangGraph-powered platform that converts natural language research questions into complete clinical studies. Cohort definition, SQL generation against OMOP/MIMIC-IV, survival analysis, propensity score matching, and scientific manuscript generation — all automated.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Framework-LangGraph-informational?style=flat&logo=langchain&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/AI-Claude_API-informational?style=flat&logo=anthropic&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6366f1)
-
----
-
-### GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/shiveshcodes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiveshcodes&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&bg_color=1a1b27&hide_border=true" />
-  </a>
-  <a href="https://github.com/shiveshcodes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiveshcodes&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&bg_color=1a1b27&hide_border=true&hide=Jupyter%20Notebook,HTML,CSS" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shiveshcodes">
-    <img src="https://streak-stats.demolab.com/?user=shiveshcodes&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,fastapi,postgres,docker,aws,git,linux&perline=12" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/shiveshcodes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiveshcodes&bg_color=1a1b27&color=c9cacc&line=6366f1&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" />
-  </a>
-</p>
+### Previously
+
+- **Systems Software Engineer** at **Sony Japan** (R&D) — embedded systems and software engineering
+- **Manager, Web & Coding Club** at **IIT Bombay** — led the institute's largest tech club
+- **ITC Web Convener** — built the Alumni-Student Mentorship Program portal (1,500+ registrations, 120% YoY growth)
+- **Student Satellite Program** & **Ham Radio Club** at IIT Bombay
 
 ---
 
