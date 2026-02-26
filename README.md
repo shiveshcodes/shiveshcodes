@@ -38,24 +38,11 @@ building: AI that turns months of clinical research into minutes
 
 ### What I'm building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[Frekil](https://www.frekil.com)** (YC X25)
 
 Like an AI Biostatistician. We automate real-world evidence generation for pharma and biotech — from EHR/claims data to publication-ready retrospective studies and FDA/EMA-ready evidence packages. Run RWE studies 100x faster with full regulatory auditability.
 
-</td>
-<td width="50%" valign="top">
-
-**[RWEAgent](https://github.com/nikhil-iitb/RWEAgent)** (Open Source)
-
-LangGraph-powered platform that converts natural language research questions into complete clinical studies. Cohort definition, SQL generation against OMOP/MIMIC-IV, survival analysis, propensity score matching, and scientific manuscript generation — all automated.
-
-</td>
-</tr>
-</table>
+Built on a LangGraph-powered platform that converts natural language research questions into complete clinical studies — cohort definition, SQL generation against OMOP/MIMIC-IV, survival analysis, propensity score matching, and scientific manuscript generation.
 
 ---
 
