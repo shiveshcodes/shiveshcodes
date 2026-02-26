@@ -29,7 +29,7 @@ Previously Systems Software Engineer at **Sony Japan** (R&D). Graduated from **I
 | `2025-now` | Co-founder & CTO @ **Frekil** (YC X25) |
 | `2024-25` | Systems Software Engineer @ **Sony Japan** |
 | `2022-23` | Manager, **Web & Coding Club** @ IIT Bombay |
-| `2022-23` | ITC Web Convener @ IIT Bombay |
+| `2022-23` | **SARC** Web Coordinator @ IIT Bombay |
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Built on a LangGraph-powered platform that converts natural language research qu
 
 - **Systems Software Engineer** at **Sony Japan** (R&D) — embedded systems and software engineering
 - **Manager, Web & Coding Club** at **IIT Bombay** — led the institute's largest tech club
-- **ITC Web Convener** — built the Alumni-Student Mentorship Program portal (1,500+ registrations, 120% YoY growth)
+- **SARC Web Coordinator** at **IIT Bombay** — built the Alumni-Student Mentorship Program portal (1,500+ registrations, 120% YoY growth)
 - **Student Satellite Program** & **Ham Radio Club** at IIT Bombay
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6366f1&height=100&section=footer" width="100%" />
