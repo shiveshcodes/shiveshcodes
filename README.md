@@ -38,7 +38,9 @@ building: AI that turns months of clinical research into minutes
 
 ### What I'm building
 
-**[Frekil](https://www.frekil.com)** (YC X25)
+<a href="https://www.ycombinator.com/companies/frekil"><img src="https://img.shields.io/badge/Y%20Combinator-X25-orange?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
+
+**[Frekil](https://www.frekil.com)**
 
 Like an AI Biostatistician. We automate real-world evidence generation for pharma and biotech — from EHR/claims data to publication-ready retrospective studies and FDA/EMA-ready evidence packages. Run RWE studies 100x faster with full regulatory auditability.
 
