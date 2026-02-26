@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6366f1&height=200&section=header&text=Shivesh%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Co-founder%20%26%20CTO%20%40%20Frekil&descColor=c9cacc&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6366f1&height=200&section=header&text=Shivesh%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Co-founder%20and%20CTO%20at%20Frekil&descColor=c9cacc&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://www.ycombinator.com/companies/frekil"><img src="https://img.shields.io/badge/Y%20Combinator-X25-orange?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
